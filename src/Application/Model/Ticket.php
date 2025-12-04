@@ -109,6 +109,7 @@
 			'abstract' => 'Fahrplan.Abstract',
 			'url' => 'Fahrplan.URL',
 			'description' => 'Fahrplan.Description',
+			'code' => 'Fahrplan.Code',
 			// inofficial properties
 			'video_download_url' => 'Fahrplan.VideoDownloadURL'
 		];
